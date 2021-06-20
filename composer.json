@@ -1,0 +1,19 @@
+{
+    "name": "acer/oop-uts",
+    "description": "Ujian Tengah Semester Sistem Informasi",
+    "type": "project",
+    "require": {
+        "php": "^7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Acer\\OopUts\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Saprida",
+            "email": "sapridarida14@gmail.com"
+        }
+    ]
+}
